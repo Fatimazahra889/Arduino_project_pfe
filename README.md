@@ -1,4 +1,3 @@
-# Arduino_project_pfe
 # Introduction
 
 This is a class attendance project for school, the main idea is an RFID scanner that reads students cards, then send their card's UID to a microcontroller which then do an action based on the card's data (whether it's known or unknown card for the microcontroller).
